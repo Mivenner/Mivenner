@@ -35,6 +35,10 @@ Prepara un server appena installato da un profilo: utente amministratore, SSH, f
 
 </td>
 <td width="50%" valign="top">
+
+### 🖥️ [VM Proxmox Toolkit](https://github.com/Mivenner/vm-proxmox-toolkit)
+Controllo di un nodo o cluster Proxmox VE: backup mancanti o vecchi, snapshot dimenticati, storage, dischi, servizi. In sola lettura, prima versione in prova.
+
 </td>
 </tr>
 </table>
