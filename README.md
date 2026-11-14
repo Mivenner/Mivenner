@@ -1,16 +1,16 @@
 <p align="center"><img src="assets/banner.svg" alt="Mike Venneri - IT Manager presso Caffè Aiello: reti, server, client, wireless, automazione" width="100%"></p>
 
-Gestisco l'infrastruttura informatica di **Caffè Aiello**: rete, server, postazioni e Wi-Fi. Quando un lavoro si ripete, lo trasformo in uno strumento, e quelli che funzionano li pubblico qui.
+Gestisco l'infrastruttura informatica di **Caffè Aiello**: rete, server, postazioni e Wi-Fi. Lavoro soprattutto su **Linux**; Windows e macOS li seguo per le postazioni. Quando un lavoro si ripete, lo trasformo in uno strumento, e quelli che funzionano li pubblico qui.
 
 <p>
+  <img src="https://img.shields.io/badge/Sistemi-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Sistemi: Linux">
+  <img src="https://img.shields.io/badge/Virtualizzazione-Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Virtualizzazione: Proxmox">
   <img src="https://img.shields.io/badge/Reti-LAN%20%C2%B7%20VLAN%20%C2%B7%20VPN-0E2247?style=flat-square" alt="Reti: LAN, VLAN, VPN">
   <img src="https://img.shields.io/badge/Wireless-Ubiquiti%20UniFi-0559C9?style=flat-square&logo=ubiquiti&logoColor=white" alt="Wireless: Ubiquiti UniFi">
-  <img src="https://img.shields.io/badge/Server-Windows%20Server-0078D4?style=flat-square" alt="Server: Windows Server">
-  <img src="https://img.shields.io/badge/Virtualizzazione-Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Virtualizzazione: Proxmox">
-  <img src="https://img.shields.io/badge/Automazione-PowerShell-5391FE?style=flat-square" alt="Automazione: PowerShell">
+  <img src="https://img.shields.io/badge/Anche-Windows%20%C2%B7%20macOS-5A6A8A?style=flat-square" alt="Anche: Windows e macOS">
 </p>
 
-## Strumenti per chi amministra PC Windows
+## Strumenti per le postazioni Windows
 
 <table>
 <tr>
@@ -48,8 +48,8 @@ Tutti hanno interfaccia grafica in italiano, riga di comando e versione portatil
 ## Di cosa mi occupo
 
 - **Reti e wireless**: progettazione e gestione di LAN, VLAN, VPN e Wi-Fi aziendale
-- **Server e virtualizzazione**: Windows Server, Proxmox, backup e ripristino
-- **Postazioni**: installazione, migrazione e manutenzione del parco PC
+- **Server e virtualizzazione**: sistemi Linux, Proxmox, backup e ripristino
+- **Postazioni**: installazione, migrazione e manutenzione di client Windows e macOS
 - **Integrazione**: collegamento tra gestionale, applicazioni per la forza vendita e servizi aziendali
 
 <p align="center"><img src="assets/vm-technology.png" width="56" alt="vm technology"><br><sub>vm technology · Italia</sub></p>
