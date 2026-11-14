@@ -10,6 +10,11 @@ Gestisco l'infrastruttura informatica di **Caffè Aiello**: rete, server, postaz
   <img src="https://img.shields.io/badge/Anche-Windows%20%C2%B7%20macOS-5A6A8A?style=flat-square" alt="Anche: Windows e macOS">
 </p>
 
+## Strumenti per Linux
+
+### 🐧 [VM Linux Health Check](https://github.com/Mivenner/vm-linux-health-check)
+Lo stato di un server Linux in pochi secondi: dischi, servizi, aggiornamenti, sicurezza, certificati. Un solo script bash, report HTML con semaforo, provato a ogni modifica su dieci distribuzioni.
+
 ## Strumenti per le postazioni Windows
 
 <table>
