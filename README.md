@@ -12,8 +12,34 @@ Gestisco l'infrastruttura informatica di **Caffè Aiello**: rete, server, postaz
 
 ## Strumenti per Linux
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🐧 [VM Linux Health Check](https://github.com/Mivenner/vm-linux-health-check)
-Lo stato di un server Linux in pochi secondi: dischi, servizi, aggiornamenti, sicurezza, certificati. Un solo script bash, report HTML con semaforo, provato a ogni modifica su dieci distribuzioni.
+Lo stato di un server in pochi secondi: dischi, servizi, aggiornamenti, sicurezza, certificati. Report HTML con semaforo, in sola lettura.
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [VM Network Check](https://github.com/Mivenner/vm-network-check)
+Chi c'è in rete, quali porte espone e cosa è cambiato dall'ultima scansione: nuovi dispositivi, nuove porte, MAC diversi.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛠️ [VM Server Setup](https://github.com/Mivenner/vm-server-setup)
+Prepara un server appena installato da un profilo: utente amministratore, SSH, firewall, aggiornamenti automatici. Prima il piano, poi l'applicazione.
+
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
+</table>
+
+Script bash senza dipendenze, con report HTML/JSON, provati a ogni modifica su dieci distribuzioni (Debian, Ubuntu, Rocky, Alma, Fedora, openSUSE, Arch, Alpine).
 
 ## Strumenti per le postazioni Windows
 
